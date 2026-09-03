@@ -1,0 +1,6 @@
+{
+  "name": "Vinodh Sir Maths Classes",
+  "description": "Official APK download and premium mathematics course plans for APPSC JL, DL, Polytechnic, RGUKT, APSET, and CSIR-NET.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
