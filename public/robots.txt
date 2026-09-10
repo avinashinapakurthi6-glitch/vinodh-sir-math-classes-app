@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /private
+
+Sitemap: https://vinodh-sir-math-classes-app.vercel.app/sitemap.xml
+
+# Crawl delay
+Crawl-delay: 1
+
+# Google Bot
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
